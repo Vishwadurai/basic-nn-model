@@ -26,7 +26,7 @@ Plot the performance plot
 ### STEP 7:
 Evaluate the model with the testing data.
 ## PROGRAM:
-### Name: Rithiga Sri.B
+### Name: D.Vishwa
 ### Register Number: 2305001034
 ```python
 from google.colab import auth
